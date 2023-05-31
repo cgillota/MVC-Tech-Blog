@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS TechBlob_db;
+CREATE DATABASE TechBlob_db;
