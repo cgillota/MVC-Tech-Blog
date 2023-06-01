@@ -5,7 +5,7 @@
  A great blog application for all tech lovers. See what's going on in your community! Create an account and post and comment from there. You might even learn something new!  
  
   
-  URL Link for deployed application: 
+  URL Link for deployed application: https://fierce-temple-72659.herokuapp.com/
 
   ## Table of Contents
   *[Installation](#installation)
